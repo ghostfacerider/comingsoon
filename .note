@@ -1,0 +1,2 @@
+You can now register new admin users at /register, and they'll be able to log in via /admin.
+https://yourapp.com/register?token=your-secure-admin-token
